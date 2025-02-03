@@ -1,6 +1,6 @@
 # Quiz Game
 
-## An interactive quiz game built using Python that tests players on various topics through multiple-choice questions. The game provides instant feedback on answers and keeps track of the player’s score.
+An interactive quiz game built using Python that tests players on various topics through multiple-choice questions. The game provides instant feedback on answers and keeps track of the player’s score.
 
 Features:
 ✅ Multiple-choice questions
